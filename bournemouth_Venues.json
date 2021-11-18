@@ -1,0 +1,602 @@
+[
+  {
+    "Venue Name": "South Coast Roast",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.72091262961102,
+    "Venue Longitude": -1.8790853239738543
+  },
+  {
+    "Venue Name": "DelMarco",
+    "Venue Category": "Italian Restaurant",
+    "Venue Latitude": 50.721370168902226,
+    "Venue Longitude": -1.877221311306135
+  },
+  {
+    "Venue Name": "Lower Gardens",
+    "Venue Category": "Park",
+    "Venue Latitude": 50.71932294552659,
+    "Venue Longitude": -1.878195373421798
+  },
+  {
+    "Venue Name": "Bournemouth Gardens",
+    "Venue Category": "Park",
+    "Venue Latitude": 50.718989612245174,
+    "Venue Longitude": -1.877733145122548
+  },
+  {
+    "Venue Name": "Bournemouth Square",
+    "Venue Category": "Plaza",
+    "Venue Latitude": 50.720155928134176,
+    "Venue Longitude": -1.879563331604004
+  },
+  {
+    "Venue Name": "The Stable",
+    "Venue Category": "Pizza Place",
+    "Venue Latitude": 50.71951690545275,
+    "Venue Longitude": -1.8767633953447544
+  },
+  {
+    "Venue Name": "Starbucks",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.720624,
+    "Venue Longitude": -1.879173
+  },
+  {
+    "Venue Name": "7Bone Burger Co.",
+    "Venue Category": "Burger Joint",
+    "Venue Latitude": 50.720069160981,
+    "Venue Longitude": -1.8763665526510716
+  },
+  {
+    "Venue Name": "Central Gardens",
+    "Venue Category": "Park",
+    "Venue Latitude": 50.71967523735879,
+    "Venue Longitude": -1.8791839624786197
+  },
+  {
+    "Venue Name": "Lord Sandwich",
+    "Venue Category": "Sandwich Place",
+    "Venue Latitude": 50.720357,
+    "Venue Longitude": -1.878137
+  },
+  {
+    "Venue Name": "Espresso Kitchen",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.72023319723362,
+    "Venue Longitude": -1.8840610398464106
+  },
+  {
+    "Venue Name": "The Gym",
+    "Venue Category": "Gym",
+    "Venue Latitude": 50.71866324843398,
+    "Venue Longitude": -1.8747058510780334
+  },
+  {
+    "Venue Name": "Esquire Coffee",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.721469,
+    "Venue Longitude": -1.876114
+  },
+  {
+    "Venue Name": "Hilton Bournemouth",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.7189313062865,
+    "Venue Longitude": -1.8806050183560414
+  },
+  {
+    "Venue Name": "Pret A Manger",
+    "Venue Category": "Sandwich Place",
+    "Venue Latitude": 50.72026572980902,
+    "Venue Longitude": -1.8805664946632736
+  },
+  {
+    "Venue Name": "Mad Cucumber",
+    "Venue Category": "Vegetarian / Vegan Restaurant",
+    "Venue Latitude": 50.720177033938455,
+    "Venue Longitude": -1.885087972005126
+  },
+  {
+    "Venue Name": "Five Guys",
+    "Venue Category": "Burger Joint",
+    "Venue Latitude": 50.71900296952858,
+    "Venue Longitude": -1.8798732201188386
+  },
+  {
+    "Venue Name": "The Cosy Club",
+    "Venue Category": "Comfort Food Restaurant",
+    "Venue Latitude": 50.72048115958525,
+    "Venue Longitude": -1.8770530576076891
+  },
+  {
+    "Venue Name": "Bournemouth Beach",
+    "Venue Category": "Beach",
+    "Venue Latitude": 50.71638671902564,
+    "Venue Longitude": -1.8747342538802079
+  },
+  {
+    "Venue Name": "Odeon",
+    "Venue Category": "Multiplex",
+    "Venue Latitude": 50.718972967781276,
+    "Venue Longitude": -1.8798041572970305
+  },
+  {
+    "Venue Name": "Giggi Gelateria",
+    "Venue Category": "Ice Cream Shop",
+    "Venue Latitude": 50.721330957683364,
+    "Venue Longitude": -1.8757836813966773
+  },
+  {
+    "Venue Name": "Patisserie Valerie",
+    "Venue Category": "Café",
+    "Venue Latitude": 50.72029410066081,
+    "Venue Longitude": -1.8781616577078208
+  },
+  {
+    "Venue Name": "The Real Greek",
+    "Venue Category": "Greek Restaurant",
+    "Venue Latitude": 50.719063,
+    "Venue Longitude": -1.879219
+  },
+  {
+    "Venue Name": "Bournemouth Beach (East Cliff Slope)",
+    "Venue Category": "Beach",
+    "Venue Latitude": 50.716873785240914,
+    "Venue Longitude": -1.874282599074701
+  },
+  {
+    "Venue Name": "Starbucks",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.72039,
+    "Venue Longitude": -1.884166
+  },
+  {
+    "Venue Name": "PureGym",
+    "Venue Category": "Gym / Fitness Center",
+    "Venue Latitude": 50.72087401478224,
+    "Venue Longitude": -1.8840953826839788
+  },
+  {
+    "Venue Name": "Caffè Nero",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.720028,
+    "Venue Longitude": -1.8836547
+  },
+  {
+    "Venue Name": "Meyrick Park",
+    "Venue Category": "Park",
+    "Venue Latitude": 50.72806249764638,
+    "Venue Longitude": -1.88185633469139
+  },
+  {
+    "Venue Name": "Tealith",
+    "Venue Category": "Bubble Tea Shop",
+    "Venue Latitude": 50.71990145664961,
+    "Venue Longitude": -1.8840071677836487
+  },
+  {
+    "Venue Name": "NEO",
+    "Venue Category": "Modern European Restaurant",
+    "Venue Latitude": 50.716727,
+    "Venue Longitude": -1.87928
+  },
+  {
+    "Venue Name": "Turtle Bay",
+    "Venue Category": "Caribbean Restaurant",
+    "Venue Latitude": 50.72246860703125,
+    "Venue Longitude": -1.8727712403491699
+  },
+  {
+    "Venue Name": "Smokin' Aces",
+    "Venue Category": "Cocktail Bar",
+    "Venue Latitude": 50.71969499973955,
+    "Venue Longitude": -1.8850768716093915
+  },
+  {
+    "Venue Name": "Koh Thai Tapas",
+    "Venue Category": "Thai Restaurant",
+    "Venue Latitude": 50.71984475651177,
+    "Venue Longitude": -1.888018273694229
+  },
+  {
+    "Venue Name": "The Goat and Tricycle",
+    "Venue Category": "Pub",
+    "Venue Latitude": 50.719326367800825,
+    "Venue Longitude": -1.8876790772659013
+  },
+  {
+    "Venue Name": "Caffè Nero",
+    "Venue Category": "Coffee Shop",
+    "Venue Latitude": 50.72125073698644,
+    "Venue Longitude": -1.8764646745822093
+  },
+  {
+    "Venue Name": "Spice of Lahore",
+    "Venue Category": "Indian Restaurant",
+    "Venue Latitude": 50.72243543992582,
+    "Venue Longitude": -1.8690932878896656
+  },
+  {
+    "Venue Name": "Olive Bistro Cafe",
+    "Venue Category": "Café",
+    "Venue Latitude": 50.71997417538831,
+    "Venue Longitude": -1.8884213833119223
+  },
+  {
+    "Venue Name": "Halo",
+    "Venue Category": "Nightclub",
+    "Venue Latitude": 50.71926708965182,
+    "Venue Longitude": -1.880346110500984
+  },
+  {
+    "Venue Name": "Russell-Cotes Art Gallery & Museum",
+    "Venue Category": "Art Museum",
+    "Venue Latitude": 50.71760416443022,
+    "Venue Longitude": -1.8708512507776471
+  },
+  {
+    "Venue Name": "H&M",
+    "Venue Category": "Clothing Store",
+    "Venue Latitude": 50.72018608158477,
+    "Venue Longitude": -1.8831925433146777
+  },
+  {
+    "Venue Name": "The Green House",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.719407213465885,
+    "Venue Longitude": -1.8682665074303488
+  },
+  {
+    "Venue Name": "The Norfolk Hotel",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.721509055511426,
+    "Venue Longitude": -1.8789285241858524
+  },
+  {
+    "Venue Name": "Delice Des Champs",
+    "Venue Category": "French Restaurant",
+    "Venue Latitude": 50.71990108444623,
+    "Venue Longitude": -1.8766162587121225
+  },
+  {
+    "Venue Name": "Meyrick Park Club",
+    "Venue Category": "Gym / Fitness Center",
+    "Venue Latitude": 50.72522077774377,
+    "Venue Longitude": -1.8840617542078248
+  },
+  {
+    "Venue Name": "Bournemouth Pavilion",
+    "Venue Category": "Theater",
+    "Venue Latitude": 50.717786410218075,
+    "Venue Longitude": -1.8747599725522506
+  },
+  {
+    "Venue Name": "Hampton by Hilton Bournemouth",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.71897140031078,
+    "Venue Longitude": -1.881915264370959
+  },
+  {
+    "Venue Name": "Primark",
+    "Venue Category": "Clothing Store",
+    "Venue Latitude": 50.7202272495236,
+    "Venue Longitude": -1.882234811782837
+  },
+  {
+    "Venue Name": "Sixty Million Postcards",
+    "Venue Category": "Bar",
+    "Venue Latitude": 50.718446138320424,
+    "Venue Longitude": -1.8796250537884531
+  },
+  {
+    "Venue Name": "Schpoons & Forx",
+    "Venue Category": "English Restaurant",
+    "Venue Latitude": 50.71870062648628,
+    "Venue Longitude": -1.8804459214682845
+  },
+  {
+    "Venue Name": "Roosters Piri Piri",
+    "Venue Category": "Fast Food Restaurant",
+    "Venue Latitude": 50.7222692169472,
+    "Venue Longitude": -1.8681907600059398
+  },
+  {
+    "Venue Name": "Bournemouth Air Show",
+    "Venue Category": "Arts & Entertainment",
+    "Venue Latitude": 50.71855378796033,
+    "Venue Longitude": -1.8674659901598216
+  },
+  {
+    "Venue Name": "Bar So",
+    "Venue Category": "Bar",
+    "Venue Latitude": 50.71771251567274,
+    "Venue Longitude": -1.8790860057419505
+  },
+  {
+    "Venue Name": "La Piccola Italia",
+    "Venue Category": "Italian Restaurant",
+    "Venue Latitude": 50.72296615633582,
+    "Venue Longitude": -1.8654899819079551
+  },
+  {
+    "Venue Name": "Indian Ocean",
+    "Venue Category": "Indian Restaurant",
+    "Venue Latitude": 50.716795517003526,
+    "Venue Longitude": -1.8828830244552173
+  },
+  {
+    "Venue Name": "Brewhouse & Kitchen",
+    "Venue Category": "Brewery",
+    "Venue Latitude": 50.719708595036664,
+    "Venue Longitude": -1.886062542801977
+  },
+  {
+    "Venue Name": "Dean Park",
+    "Venue Category": "Garden",
+    "Venue Latitude": 50.725412113511105,
+    "Venue Longitude": -1.873168793522042
+  },
+  {
+    "Venue Name": "Oceanarium, The Bournemouth Aquarium",
+    "Venue Category": "Aquarium",
+    "Venue Latitude": 50.71595166291966,
+    "Venue Longitude": -1.8764787909862957
+  },
+  {
+    "Venue Name": "Westbeach",
+    "Venue Category": "Diner",
+    "Venue Latitude": 50.71555148520679,
+    "Venue Longitude": -1.8775028819213628
+  },
+  {
+    "Venue Name": "Lola’s",
+    "Venue Category": "Tapas Restaurant",
+    "Venue Latitude": 50.719712,
+    "Venue Longitude": -1.884499
+  },
+  {
+    "Venue Name": "West Beach Restaurant and Bar",
+    "Venue Category": "Seafood Restaurant",
+    "Venue Latitude": 50.71556796346859,
+    "Venue Longitude": -1.8774826354415532
+  },
+  {
+    "Venue Name": "Chiquito",
+    "Venue Category": "Mexican Restaurant",
+    "Venue Latitude": 50.7186898290841,
+    "Venue Longitude": -1.8789462245368895
+  },
+  {
+    "Venue Name": "Durley Chine",
+    "Venue Category": "Beach",
+    "Venue Latitude": 50.713379540620046,
+    "Venue Longitude": -1.8890219297822686
+  },
+  {
+    "Venue Name": "Subway",
+    "Venue Category": "Sandwich Place",
+    "Venue Latitude": 50.72262968938107,
+    "Venue Longitude": -1.8656676701422539
+  },
+  {
+    "Venue Name": "Inferno",
+    "Venue Category": "Pub",
+    "Venue Latitude": 50.72257400231198,
+    "Venue Longitude": -1.8644732236862183
+  },
+  {
+    "Venue Name": "Sprinkles Gelato",
+    "Venue Category": "Dessert Shop",
+    "Venue Latitude": 50.72290441103008,
+    "Venue Longitude": -1.8654511187320904
+  },
+  {
+    "Venue Name": "Da Mario, wood-fired pizza",
+    "Venue Category": "Italian Restaurant",
+    "Venue Latitude": 50.72160251584874,
+    "Venue Longitude": -1.8928436070751873
+  },
+  {
+    "Venue Name": "Bournemouth East Cliff",
+    "Venue Category": "Other Great Outdoors",
+    "Venue Latitude": 50.71869673429801,
+    "Venue Longitude": -1.8651652576988755
+  },
+  {
+    "Venue Name": "Bournemouth Pizza Co.",
+    "Venue Category": "Pizza Place",
+    "Venue Latitude": 50.72582832784378,
+    "Venue Longitude": -1.8614874547228282
+  },
+  {
+    "Venue Name": "La Piazza",
+    "Venue Category": "Italian Restaurant",
+    "Venue Latitude": 50.7197118096394,
+    "Venue Longitude": -1.8866766075459396
+  },
+  {
+    "Venue Name": "Oriental Garden",
+    "Venue Category": "Chinese Restaurant",
+    "Venue Latitude": 50.71964378319712,
+    "Venue Longitude": -1.8851375669275858
+  },
+  {
+    "Venue Name": "Mint Leaf Indian Brasserie",
+    "Venue Category": "Indian Restaurant",
+    "Venue Latitude": 50.720077,
+    "Venue Longitude": -1.885176
+  },
+  {
+    "Venue Name": "Troy Turkish Restaurant",
+    "Venue Category": "Turkish Restaurant",
+    "Venue Latitude": 50.72004378358437,
+    "Venue Longitude": -1.8853449696386213
+  },
+  {
+    "Venue Name": "Upper Gardens",
+    "Venue Category": "Park",
+    "Venue Latitude": 50.72702513291062,
+    "Venue Longitude": -1.8960956440425136
+  },
+  {
+    "Venue Name": "Atlantico",
+    "Venue Category": "Fast Food Restaurant",
+    "Venue Latitude": 50.720058188779845,
+    "Venue Longitude": -1.8853561209819296
+  },
+  {
+    "Venue Name": "Hallmark Hotel",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.7187423079274,
+    "Venue Longitude": -1.8903717326678728
+  },
+  {
+    "Venue Name": "DYMK",
+    "Venue Category": "Gay Bar",
+    "Venue Latitude": 50.71970886390493,
+    "Venue Longitude": -1.8874338139512048
+  },
+  {
+    "Venue Name": "The Winchester",
+    "Venue Category": "Bar",
+    "Venue Latitude": 50.719720669287724,
+    "Venue Longitude": -1.887661071888708
+  },
+  {
+    "Venue Name": "Subway",
+    "Venue Category": "Sandwich Place",
+    "Venue Latitude": 50.71981694009568,
+    "Venue Longitude": -1.8841385775471042
+  },
+  {
+    "Venue Name": "Sound Circus",
+    "Venue Category": "Nightclub",
+    "Venue Latitude": 50.727092246594765,
+    "Venue Longitude": -1.8612479019098604
+  },
+  {
+    "Venue Name": "Bournemouth Noodle Bar",
+    "Venue Category": "Noodle House",
+    "Venue Latitude": 50.72741530654406,
+    "Venue Longitude": -1.8611416352093773
+  },
+  {
+    "Venue Name": "Triangle",
+    "Venue Category": "Plaza",
+    "Venue Latitude": 50.720030250856375,
+    "Venue Longitude": -1.8852649313514467
+  },
+  {
+    "Venue Name": "Ojo Rojo",
+    "Venue Category": "Mexican Restaurant",
+    "Venue Latitude": 50.71982587573331,
+    "Venue Longitude": -1.884000747441706
+  },
+  {
+    "Venue Name": "KFC",
+    "Venue Category": "Fast Food Restaurant",
+    "Venue Latitude": 50.72017889993224,
+    "Venue Longitude": -1.8839731378263005
+  },
+  {
+    "Venue Name": "The Durley Dean Hotel",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.71617021634969,
+    "Venue Longitude": -1.8881965556148625
+  },
+  {
+    "Venue Name": "Premier Inn Bournemouth West Cliff",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.720983,
+    "Venue Longitude": -1.891768
+  },
+  {
+    "Venue Name": "Xchange",
+    "Venue Category": "Gay Bar",
+    "Venue Latitude": 50.71994256892994,
+    "Venue Longitude": -1.8854386394827478
+  },
+  {
+    "Venue Name": "Tesco Express",
+    "Venue Category": "Grocery Store",
+    "Venue Latitude": 50.72045989234878,
+    "Venue Longitude": -1.8841204047203064
+  },
+  {
+    "Venue Name": "The Durley Inn (Harvester)",
+    "Venue Category": "English Restaurant",
+    "Venue Latitude": 50.71341945298081,
+    "Venue Longitude": -1.8889952286086065
+  },
+  {
+    "Venue Name": "West Cliff Zig Zag",
+    "Venue Category": "Scenic Lookout",
+    "Venue Latitude": 50.71484887206258,
+    "Venue Longitude": -1.8839146360602288
+  },
+  {
+    "Venue Name": "Bournemouth Railway Station (BMH)",
+    "Venue Category": "Train Station",
+    "Venue Latitude": 50.7271789510882,
+    "Venue Longitude": -1.864351388816121
+  },
+  {
+    "Venue Name": "Mansfield Hotel Bournemouth",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.71573763670073,
+    "Venue Longitude": -1.8874623485258992
+  },
+  {
+    "Venue Name": "Need A Coffee",
+    "Venue Category": "Café",
+    "Venue Latitude": 50.715741,
+    "Venue Longitude": -1.888358
+  },
+  {
+    "Venue Name": "The Dean Park Inn",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.731290512419946,
+    "Venue Longitude": -1.8740730951353057
+  },
+  {
+    "Venue Name": "Cememtery Junction Bus Stop",
+    "Venue Category": "Bus Stop",
+    "Venue Latitude": 50.73159058826061,
+    "Venue Longitude": -1.8733577885937027
+  },
+  {
+    "Venue Name": "Chineside",
+    "Venue Category": "Café",
+    "Venue Latitude": 50.71334140904267,
+    "Venue Longitude": -1.8890967636385771
+  },
+  {
+    "Venue Name": "Platform 1",
+    "Venue Category": "Platform",
+    "Venue Latitude": 50.727286548457826,
+    "Venue Longitude": -1.8630211014589086
+  },
+  {
+    "Venue Name": "The Cliffeside Hotel",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.71945394216119,
+    "Venue Longitude": -1.8600518169994822
+  },
+  {
+    "Venue Name": "The Garden Restaurant - Cottonwood Boutique Hotel",
+    "Venue Category": "Hotel",
+    "Venue Latitude": 50.71979486465741,
+    "Venue Longitude": -1.8588841918312096
+  },
+  {
+    "Venue Name": "Middle Chine",
+    "Venue Category": "Beach",
+    "Venue Latitude": 50.715089958932,
+    "Venue Longitude": -1.895663860836525
+  },
+  {
+    "Venue Name": "Casa Pepe",
+    "Venue Category": "French Restaurant",
+    "Venue Latitude": 50.72793,
+    "Venue Longitude": -1.860378
+  }
+]
